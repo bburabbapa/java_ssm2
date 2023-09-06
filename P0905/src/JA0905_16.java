@@ -1,5 +1,5 @@
 
-public class JA0905_12 {
+public class JA0905_16 {
 
 	public static void main(String[] args) {
 		int[] score = { 100, 90, 80, 70, 60, 50, 40, 30, 20, 10 };

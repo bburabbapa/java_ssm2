@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JA0905_11 {
+public class JA0905_11_성적폼 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

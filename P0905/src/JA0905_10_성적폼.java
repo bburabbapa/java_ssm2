@@ -1,10 +1,14 @@
 import java.util.Scanner;
 
-public class JA0905_10 {
+public class JA0905_10_성적폼 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-
+		
+		
+		
+		
+		
 		loop: while (true) { // 무한반복
 			System.out.println("[학생성적 프로그램]");
 			System.out.println("1.성적입력");

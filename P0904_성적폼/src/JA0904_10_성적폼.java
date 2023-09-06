@@ -4,6 +4,11 @@ public class JA0904_10_성적폼 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
+		
+		
+		
+		
+		
 
 		System.out.println("[학생성적 프로그램]");
 		System.out.println("1.성적입력");
@@ -21,6 +26,16 @@ public class JA0904_10_성적폼 {
 		switch (choice) {
 		case 1:
 			System.out.println("성적입력을 선택하셨습니다.");
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			break;
 		case 2:
 			System.out.println("성적출력을 선택하셨습니다.");
