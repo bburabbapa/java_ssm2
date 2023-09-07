@@ -10,6 +10,7 @@ public class JA0906_06_로또만들기 {
 		int[] lotto = new int[45]; // 전체번호
 		int[] winLotto = new int[6]; // 당첨번호
 		int[] myNumber = new int[6]; // 나의 번호
+		int temp = 0;
 
 		// 1~45번 번호 입력
 		for (int i = 0; i < lotto.length; i++) {
@@ -19,7 +20,7 @@ public class JA0906_06_로또만들기 {
 		// 번호 섞기
 		for (int i = 0; i < 200; i++) {
 			int random = (int) (Math.random() * 45);
-			int temp = lotto[0];
+			temp = lotto[0];
 			lotto[0] = lotto[random];
 			lotto[random] = temp;
 		} // for
