@@ -7,7 +7,8 @@ public class JA0908_11 {
 		System.out.println(	JA0908_10_메소드예제2.total(10,10,9));
 		System.out.println(	JA0908_10_메소드예제2.avg(10,10,9));
 		
-
+		
+		JA0908_10_메소드예제2 j = new JA0908_10_메소드예제2 ();
 	}
 
 }

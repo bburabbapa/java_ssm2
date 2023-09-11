@@ -9,6 +9,7 @@ public class JA0908_10_메소드예제2 {
 		int math = 98;
 
 		System.out.println("합계: " + total(kor, eng, math));
+		JA0908_10_메소드예제2 j = new JA0908_10_메소드예제2 ();
 		System.out.println("평균: " + avg(kor, eng, math));
 
 	}// main
