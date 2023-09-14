@@ -14,7 +14,7 @@ public class Deck {
 			
 			//c[i] = new Card(shape[i/13],i%13+1); 
 		}
-	}
+	} //카드출력
 
 	void cardPrint() {
 		for (int i = 0; i < c.length; i++) {
