@@ -18,7 +18,7 @@ public class StuAction {
 	}// mainPrint
 
 	int stuInput(int stuCount) {
-		while (true) {
+		while (true) {//무한반복
 			System.out.println("학생성적입력");
 			System.out.printf("%d 이름입력(0.이전페이지)\n", stuCount);
 			String name = scan.next();
@@ -58,6 +58,9 @@ public class StuAction {
 		} // for
 		System.out.println("============================================");
 
+		
+		
+		
 	}// stuOutput
 
 }// class
