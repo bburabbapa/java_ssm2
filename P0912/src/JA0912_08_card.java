@@ -15,7 +15,7 @@ public class JA0912_08_card {
 //		System.out.println(c2);
 
 //		String[] shape = { "Heart", "Spade", "Diamond", "Clover" };
-//		Card[] c = new Card[52]; //객체선언= 
+//		Card[] c = new Card[52]; //객체선언
 //		for (int i = 0; i < c.length; i++) {
 //			c[i] = new Card();
 //			c[i].kind = shape[i / 13];
